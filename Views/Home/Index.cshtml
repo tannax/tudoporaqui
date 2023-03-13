@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "Tudo Por Aqui";
+}
+@ViewData["Home"]
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="navbar"></div>
+<script src="~/Views/React/Navbar.js"></script>
+<script src="~/js/react.production.min.js"></script>
+<script src="~/js/react-dom.production.min.js"></script>
+<script src="~/Views/React/Navbar.js"></script>
+<script>
+  ReactDOM.render(
+    React.createElement(Navbar),
+    document.getElementById('navbar')
+  );
+</script>
+
+    <style>
+        img {
+            max-width: 100%;
+        }
+    </style>
+       <style>
+        /*Base do background */
+        div {
+            background-color: #eefdfceb;
+        }
+       
+    </style>
+        <div style="width: 100%; display: table;">
+            <center>
+      <div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card mb-4">
+        <img src="IMG/bkr.jpg" class="card-img-top, lileffect" alt="João Massas">
+        <div class="card-body">
+          <h3 class="card-title">João Massas</h3>
+          <p class="card-text">Delivery à partir das 18h</p>
+          <p class="card-text">Agora em novo horário de atendimento:</p>
+          <ul class="list-unstyled">
+            <li>Seg-Sáb</li>
+          </ul>
+          <p class="card-text">Rua Apripo 13.</p>
+        </div>
+      </div>
+
+      <div class="card mb-4">
+        <img src="IMG/bkry.jpg" class="card-img-top, lileffect" alt="Padaria Gourmetrix">
+        <div class="card-body">
+          <h3 class="card-title">Padaria Gourmetrix</h3>
+          <p class="card-text">Funcionamos todos os dias</p>
+          <p class="card-text">A melhor qualidade a mais de 30 anos</p>
+          <ul class="list-unstyled">
+            <li>8 - 18h</li>
+          </ul>
+          <p class="card-text">Rua Alamador 523</p>
+        </div>
+      </div>
+
+      <div class="card mb-4">
+        <img src="IMG/grdn.jpg" class="card-img-top, lileffect" alt="Jardinagem">
+        <div class="card-body">
+          <h3 class="card-title">Edson Jardinagem</h3>
+          <p class="card-text">Serviços de Jardinagem</p>
+          <p class="card-text"> Contato : <a href="tel:+5521999999999">(21)99999-9999</a></p>
+        </div>
+      </div>
+
+      <div class="card mb-4">
+        <img src="IMG/grmt.jpg" class="card-img-top, lileffect" alt="Café">
+        <div class="card-body">
+          <h3 class="card-title">Café</h3>
+          <p class="card-text">Para todos os amantes de café</p>
+          <p class="card-text">Qualidade e atendimento profissional</p>
+          <ul class="list-unstyled">
+            <li>6 - 19h</li>
+          </ul>
+          <p class="card-text">Rua Cajiru 19</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="card mb-4">
+        <img src="IMG/mcdoleg.jpg" class="card-img-top, lileffect" alt="Hortifruti">
+        <div class="card-body">
+          <h3 class="card-title">Hortifruti</h3>
+          <p class="card-text">Nós vendemos os melhores produtos da lavoura.</p>
+          <p class="card-text">Produtos frescos livres de agrotóxicos</p>
+          <ul class="list-unstyled">
+            <li>6 - 19h</li>
+          </ul>
+          <p class="card-text">Rua Cajiru 19</p>
+        </div>
+      </div>
+
+ <div class="card mb-4">
+        <img src="IMG/mrcd.jpg" class="card-img-top, lileffect" alt="Mercado">
+        <div class="card-body">
+          <h3 class="card-title">Mercado</h3>
+          <p class="card-text">Melhor preço e atendimento</p>
+          <p class="card-text">Entregamos em domicílio em todas as compras acima de 100R$</p>
+          <ul class="list-unstyled">
+            <li>8 - 22h</li>
+          </ul>
+          <p class="card-text">Av. Ruddufo Chimara 239</p>
+        </div>
+      </div>
+
+ <div class="card mb-4">
+        <img src="IMG/mcnc.jpg" class="card-img-top, lileffect" alt="Mecanico">
+        <div class="card-body">
+          <h3 class="card-title">Jorge Mecânico</h3>
+          <p class="card-text">Contato : <a href>(21)93499-0456 </a></p>
+          <p class="card-text">Atendimento de segunda à sexta</p>
+          <ul class="list-unstyled">
+            <li>8 - 18h</li>
+          </ul>
+          <p class="card-text">Av. Ruddufo Chimara 278</p>
+        </div>
+      </div>
+
+      <div class="card mb-4">
+        <img src="IMG/pntr.jpg" class="card-img-top, lileffect" alt="Pintura">
+        <div class="card-body">
+         <h3 class="card-title">Marcos Pintor</h3>
+          <p class="card-text">Contato : <a href>(21)91111-0003 </a></p>
+          <p class="card-text">Atendimento de segunda à sexta</p>
+          <ul class="list-unstyled">
+            <li>6 - 19h</li>
+          </ul>
+        </div>
+      </div>
+            </center>
+        
+

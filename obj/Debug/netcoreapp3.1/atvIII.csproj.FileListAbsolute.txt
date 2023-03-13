@@ -1,0 +1,90 @@
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/appsettings.json
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.deps.json
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.runtimeconfig.json
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.runtimeconfig.dev.json
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.dll
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.pdb
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.Views.dll
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.Views.pdb
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.csprojAssemblyReference.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.AssemblyInfoInputs.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.AssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.csproj.CoreCompileInputs.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.MvcApplicationPartsAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorAssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.TagHelpers.input.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.TagHelpers.output.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorCoreGenerate.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorTargetAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorTargetAssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.Views.pdb
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/staticwebassets/atvIII.StaticWebAssets.Manifest.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/staticwebassets/atvIII.StaticWebAssets.xml
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.dll
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.pdb
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.genruntimeconfig.cache
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.csproj.CopyComplete
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/faleConosco.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/Anunciantes.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/Anuncioinserido.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/krux/Documents/SENAC PDFs/TO DO/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/FCreturn.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/appsettings.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.deps.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.runtimeconfig.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.runtimeconfig.dev.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.pdb
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.Views.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/atvIII.Views.pdb
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.csprojAssemblyReference.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.AssemblyInfoInputs.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.AssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.csproj.CoreCompileInputs.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.MvcApplicationPartsAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorAssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.TagHelpers.input.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.TagHelpers.output.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorCoreGenerate.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/Anunciantes.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/Anuncioinserido.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/faleConosco.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/FCreturn.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorTargetAssemblyInfo.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.RazorTargetAssemblyInfo.cs
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.Views.pdb
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.csproj.CopyComplete
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/staticwebassets/atvIII.StaticWebAssets.Manifest.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/staticwebassets/atvIII.StaticWebAssets.xml
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.pdb
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/obj/Debug/netcoreapp3.1/atvIII.genruntimeconfig.cache
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/package-lock.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/package.json
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/krux/Documents/SENAC PDFs/ModuloII/UC08/atvIII/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll

@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+<html lang="br-PT">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - atvIII</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <style>
+
+/*Botoes da Nav*/
+
+.button {
+  display: inline-block;
+  padding: 15px 32px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+/*Nav buttons*/
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #3e8e41;
+  color: white;
+  border: 2px solid #3e8e41;
+}
+
+.button2 {
+  background-color: #008CBA;
+
+}
+
+.button2:hover {
+  background-color: #0077a3;
+  color: white;
+  border: 2px solid #008CBA;
+
+}
+
+/*3D card*/
+
+.lileffect
+{
+column-width: auto;
+
+background: #E3EBED;
+box-shadow: 673px 665px 378px rgba(22, 32, 34, 0.01),
+379px 374px 319px rgba(22, 32, 34, 0.05),
+168px 166px 236px rgba(22, 32, 34, 0.09),
+42px 42px 130px rgba(22, 32, 34, 0.1),
+0px 0px 0px rgba(22, 32, 34, 0.1);
+}
+
+/* glow*/
+.lileffect:hover
+{
+border-bottom: 4px solid #fff; 
+
+     color: #111;
+            background: #39ff14;
+            box-shadow: 0 0 50px #65D9FF;
+          
+}
+
+/* shadow effect */
+.card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transform: translateZ(5px);
+}
+
+/*Faleconosco Box */
+.ipipto{
+
+box-shadow: 673px 665px 378px rgba(22, 32, 34, 0.01),
+379px 374px 319px rgba(22, 32, 34, 0.05),
+0px 0px 0px rgba(22, 32, 34, 0.1);
+}
+.ipipto:hover{
+            box-shadow: 0 0 50px #65D9FF;
+
+}
+.colorie {
+    background-color: lightgrey;
+    }
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TudoPorAqui</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="button button1 btn" asp-area="" asp-controller="Home" asp-action="Anunciantes">Criar Anuncio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="button button2 btn" asp-area="" asp-controller="Home" asp-action="faleConosco">Fale Conosco</a>
+                        </li>
+                  </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; Copyright 2022 - TudoPorAqui - 
+     <a asp-area="" asp-controller="Home" asp-action="faleConosco">Fale Conosco</a> |
+            <a href="#">Dúvidas frequentes</a> 
+      </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <!--REACT JS
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+-->
+     <!-- REACT SRC -->
+        @section ReactScripts {
+    <script src="https://unpkg.com/react@16.13.1/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@16.13.1/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.min.js"></script>
+}
+@section ReactApp {
+    <div id="react-container"></div>
+    <script type="text/babel">
+        ReactDOM.render(
+            <YourReactComponent />,
+            document.getElementById('react-container')
+        );
+    </script>
+}
+@RenderSection("ReactScripts", required: false)
+@RenderSection("ReactApp", required: false)
+
+<!---->
+
+    @RenderSection("Scripts", required: false)
+<!--Outra tentaiva-->
+<div id="navbar"></div>
+<script src="~/Views/React/Navbar.js"></script>
+<script src="~/js/react.production.min.js"></script>
+<script src="~/js/react-dom.production.min.js"></script>
+<script src="~/Views/React/Navbar.js"></script>
+<script>
+  ReactDOM.render(
+    React.createElement(Navbar),
+    document.getElementById('navbar')
+  );
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const form = document.querySelector("form");
+    const resetBtn = document.getElementById("reset-btn");
+    resetBtn.addEventListener("click", function() {
+      form.reset();
+    });
+  });
+</script>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,53 @@
+@model RegistroDoassunto
+
+@{
+    ViewData["Title"] = "FaleConosco";
+}
+
+<style>
+form  { display: table; border: 4px solid green; background-color: #FFFFFF; width: 400px;     }
+p     { display: table-row;  }
+label { display: table-cell; }
+div   { display: inline-flexbox;}
+</style>
+
+<body>
+    <center>
+    <h1>Fale Conosco</h1>
+     <b> 
+     <form method="POST" class="ipipto">
+
+        <br>
+        <p>
+            <label alt="Nome">Nome: </label>
+            <input asp-for="Nome" class="colorie"  placeholder="Ex.: Robson Madeiros">
+        </p>
+        <br>
+        <p>
+            <label alt="Telefone">Telefone:</label>
+            <input asp-for="Telefone" class="colorie"  placeholder="Ex.:21910002000">
+        </p>
+        <br>
+        <p>
+            <label alt="email">E-mail:</label>
+            <input asp-for="email" class="colorie"  placeholder="Ex.: joaorubin@gmail.com">
+        </p>
+        <br>
+        <p>
+        <label for="Assunto" alt="Assunto">Assunto:</label>
+       <textarea asp-for="Assunto" class="colorie" placeholder="Digite aqui..."></textarea>
+        </p>
+<p style="display: block;"></p>
+<div>
+        <input style="background-color:#DFBA82; color:#FFFFFF;" type="submit" value=Enviar class="btn" alt="Enviar"> 
+        <input style="background-color:#41436A; color:#EBe133;" type="reset" value="Limpar" class="btn" id="reset-btn" alt="Limpar dados preenchidos">
+</div>
+
+    </form>
+    </b>
+    <nav>
+        <br>
+        <a class="nav-item"asp-controller="Home" asp-action="Index" alt="Página principal">Página principal</a>
+        <p>@ViewBag.Retorno</p>
+        </center>
+</body>
